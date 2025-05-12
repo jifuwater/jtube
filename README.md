@@ -3,4 +3,4 @@ Put the channels where you want to grab the last two videos in the channels.txt 
 
 Dependencies: yt-dlp; mpv
 
-Don’t look at the code too much; it was made by GPT. I created it because FreeTube had some issues with me.
+Don’t look at the code too much; it was made by GPT. I created it because FreeTube is stuck at 360px and invidious go only in english autotranslate.
